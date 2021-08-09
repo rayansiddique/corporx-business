@@ -1,0 +1,132 @@
+#navbar{
+    margin-bottom: 50px;
+}
+.container{
+    margin-bottom: 50px;
+}
+#footer{
+    margin-bottom: 0px;
+}
+
+
+.banner{
+    background-color: #DDE0EB;
+}
+.banner-both{
+    padding: 20px 40px;
+}
+.banner-written h1{
+    font-size: 50px;
+    /*margin-left: 30px;*/
+}
+.banner-written p{
+    font-size: 20px;
+    /*margin-left: 30px;*/
+}
+.banner-picture img{
+    margin-left: 10px;
+    background-color: #DDE0EB;;
+}
+
+
+.percentage{
+    text-align: center;
+    padding: 10px 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.percentage h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+.shundori-pic{
+    background-color: #DDE0EB;
+    
+}
+.fas .fa-link{
+    color: white;
+    background-color: blue;
+}
+
+
+.quality{
+    background-color: #1A2C79;
+}
+.quality-written p{
+    font-size: 20px;
+}
+
+
+
+.news-written p{
+    font-size: 22px;
+}
+.news-card h5{
+    color: #1A2C79;
+}
+.news-card p{
+    font-size: 18px;
+}
+.news-card a:hover{
+    color: red;
+    text-decoration: none;
+}
+
+
+
+
+.clients{
+    background-color: #DDE0EB;
+}
+.clients-written p{
+    font-size: 22px;
+}
+
+
+
+
+
+.subscriber-written p{
+    font-size: 20px;
+}
+
+
+
+
+
+footer{
+    background-color: #1A2C79;
+}
+footer p{
+    color: #dde0ebe0;
+}
+
+footer ul li{
+    list-style-type: none;
+    margin-left: -38px;
+    margin-bottom: 10px;
+}
+footer ul li a{
+    color: #dde0ebb2;
+    font-size: 16px;
+
+}
+footer ul li a:hover{
+    color: white;
+    
+    text-decoration: none;
+
+}
+
+.copyrights{
+    color: #dde0ebb2;
+}
+
+
